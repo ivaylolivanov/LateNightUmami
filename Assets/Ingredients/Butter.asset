@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa171a0052be8398aa3590d5c53a637e, type: 3}
+  m_Name: Butter
+  m_EditorClassIdentifier: 
+  ingredient: Butter
+  sprite: {fileID: 21300000, guid: 4ab397d5135cb9cd4a4d1d9c51708c34, type: 3}
+  flavor: 1
+  strongerTogether:
+  - {fileID: 11400000, guid: e23f35994df430cb48aa7094149c7e97, type: 2}
+  - {fileID: 11400000, guid: e9ce1703dc25253bf8454b47831d2e2f, type: 2}
+  - {fileID: 11400000, guid: be7ba665a53bcf5639319045bf88a95d, type: 2}
+  - {fileID: 11400000, guid: 5ba325be418f9d809b46830d195ed672, type: 2}
+  - {fileID: 11400000, guid: 177478c88550d48edadd6e9ace6b1091, type: 2}
+  - {fileID: 11400000, guid: 04751daef7f21959dba7d46843f3c18b, type: 2}
+  - {fileID: 11400000, guid: f812330b9e1d44950ae6be968dfdd49f, type: 2}
+  - {fileID: 11400000, guid: fe775a529640620f8af89fb82a2d60df, type: 2}

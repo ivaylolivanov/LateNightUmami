@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa171a0052be8398aa3590d5c53a637e, type: 3}
+  m_Name: Onion
+  m_EditorClassIdentifier: 
+  ingredient: Onion
+  sprite: {fileID: 21300000, guid: b88924a07dded9a8eb2983ee29dc7601, type: 3}
+  flavor: 1
+  strongerTogether:
+  - {fileID: 11400000, guid: c671f36da4fba0213b800804addd6006, type: 2}
+  - {fileID: 11400000, guid: d36959ee91dce23adb0330d758c9d48e, type: 2}
+  - {fileID: 11400000, guid: da830a26c337c1f519c2ce0846249f75, type: 2}
+  - {fileID: 11400000, guid: e23f35994df430cb48aa7094149c7e97, type: 2}
+  - {fileID: 11400000, guid: e9ce1703dc25253bf8454b47831d2e2f, type: 2}
+  - {fileID: 11400000, guid: be7ba665a53bcf5639319045bf88a95d, type: 2}
+  - {fileID: 11400000, guid: 1375921c90082ceb78a37a7cd5bee5da, type: 2}
+  - {fileID: 11400000, guid: 177478c88550d48edadd6e9ace6b1091, type: 2}
+  - {fileID: 11400000, guid: fe775a529640620f8af89fb82a2d60df, type: 2}
+  - {fileID: 11400000, guid: 2c9789b3d967e4ff3bcc8734335e2c40, type: 2}
+  - {fileID: 11400000, guid: ceb7c67f80eed05bba9972255e843c13, type: 2}
