@@ -5,7 +5,7 @@ The theme of the game jam was stronger together. My game fits it as its goal is 
 The font, used in the game is created by Goma Shin and can be found [here](https://www.dafont.com/goma-cookie-g.font?fpp=200).
 Everything else is done by me.
 
-[](https://m00ns7ruck.itch.io/late-night-umami)
+[Itch page](https://m00ns7ruck.itch.io/late-night-umami)
 
 
 # Screenshots
