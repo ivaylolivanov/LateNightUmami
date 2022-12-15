@@ -14,6 +14,8 @@ public class ButtonFunctions : MonoBehaviour {
     }
 
     void Update() {
+        if(game == null) return;
+
         if(game.GetRating() <= 0) {
             LoadEndGameScene();
         }
